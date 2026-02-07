@@ -1,0 +1,71 @@
+Total Active Items: 31
+
+--- DB Inspection ---
+Unique Categories found in DB:
+['Bread' 'Rice' 'Gravy' 'DryVeg' 'Starter' 'Dessert' 'Sweet' 'Beverages']
+
+Sample Item Names (first 10):
+['Roti', 'Butter Roti', 'Kulcha', 'Butter Kulcha', 'Jeera Rice', 'Vegetable Pulav', 'Vegetable Biryani', 'Egg Biryani', 'Chicken Biryani', 'Dal Tadka']
+
+Price Column Inspection:
+       Item_Name  Current_Price
+0           Roti             10
+1    Butter Roti             12
+4         Kulcha             20
+5  Butter Kulcha             22
+6     Jeera Rice            100
+Price Stats: count     31.000000
+mean     110.774194
+std       72.071589
+min       10.000000
+25%       45.000000
+50%      100.000000
+75%      150.000000
+max      250.000000
+Name: Current_Price, dtype: float64
+
+--- Category Debug ---
+Category 'rice': 5 items
+Category 'gravy': 7 items
+Category 'bread': 4 items
+Category 'starter': 4 items
+Category 'dessert': 4 items
+Category 'beverage': 4 items
+
+--- Target Keyword Debug ---
+Keyword 'Biryani': 3 matches
+Keyword 'Pizza': 0 matches
+Keyword 'Burger': 0 matches
+Keyword 'Chinese': 0 matches
+Keyword 'Thali': 0 matches
+Keyword 'Dessert': 1 matches
+Keyword 'Beverage': 4 matches
+
+--- Generating Combos ---
+
+Generated 5 combos:
+- Special Biryani Combo
+  Desc: Vegetable Biryani • Chilli Paneer • Chaas
+  Price: 288.0 (Save 72.0)
+  Stats: 4.7⭐ (330 orders)
+  Personalized: True
+- Special Dessert Combo
+  Desc: Ice Cream
+  Price: 45.0 (Save 5.0)
+  Stats: 4.3⭐ (406 orders)
+  Personalized: True
+- Special Beverage Combo
+  Desc: Chaas • Sweet Lassi
+  Price: 72.0 (Save 8.0)
+  Stats: 4.7⭐ (259 orders)
+  Personalized: True
+- Family Feast Combo
+  Desc: Jeera Rice • Dal Tadka • Dal Fry • Roti • Ice Cream
+  Price: 345.0 (Save 115.0)
+  Stats: 4.3⭐ (265 orders)
+  Personalized: False
+- Quick Meal Combo
+  Desc: Chilli Paneer • Kadai Chicken • Roti • Chaas
+  Price: 344.4 (Save 75.6)
+  Stats: 4.4⭐ (499 orders)
+  Personalized: True

@@ -1,0 +1,154 @@
+DEBUG: ComboAgent initialized with 31 active items
+DEBUG: Strategy North Indian Meal -> Found 7 Mains, 4 Sides
+DEBUG: Strategy Rice Combo -> Found 5 Mains, 7 Sides
+DEBUG: Strategy Chinese Combo -> SKIPPED (Mains: 0, Sides: 4)
+DEBUG: ComboAgent initialized with 31 active items
+DEBUG: Strategy North Indian Meal -> Found 7 Mains, 4 Sides
+DEBUG: Strategy Rice Combo -> Found 5 Mains, 7 Sides
+DEBUG: Strategy Chinese Combo -> SKIPPED (Mains: 0, Sides: 4)
+DEBUG: ComboAgent initialized with 31 active items
+DEBUG: Strategy North Indian Meal -> Found 7 Mains, 4 Sides
+DEBUG: Strategy Rice Combo -> Found 5 Mains, 7 Sides
+DEBUG: Strategy Chinese Combo -> SKIPPED (Mains: 0, Sides: 4)
+DEBUG: ComboAgent initialized with 31 active items
+DEBUG: Strategy North Indian Meal -> Found 7 Mains, 4 Sides
+DEBUG: Strategy Rice Combo -> Found 5 Mains, 7 Sides
+DEBUG: Strategy Chinese Combo -> SKIPPED (Mains: 0, Sides: 4)
+DEBUG: ComboAgent initialized with 31 active items
+DEBUG: Strategy North Indian Meal -> Found 7 Mains, 4 Sides
+DEBUG: Picked Main: Panner Masala
+DEBUG: Picked Side: Roti
+DEBUG: Strategy Rice Combo -> Found 5 Mains, 7 Sides
+DEBUG: Picked Main: Vegetable Biryani
+DEBUG: Picked Side: Panner Masala
+DEBUG: Strategy Chinese Combo -> SKIPPED (Mains: 0, Sides: 4)
+DEBUG: ComboAgent initialized with 31 active items
+DEBUG: Strategy North Indian Meal -> Found 7 Mains, 4 Sides
+DEBUG: Picked Main: Dal Makhani
+DEBUG: Picked Side: Butter Kulcha
+ERROR inside loop: name 'random' is not defined
+DEBUG: Strategy Rice Combo -> Found 5 Mains, 7 Sides
+DEBUG: Picked Main: Vegetable Biryani
+DEBUG: Picked Side: Kadai Chicken
+ERROR inside loop: name 'random' is not defined
+DEBUG: Strategy Chinese Combo -> SKIPPED (Mains: 0, Sides: 4)
+DEBUG: Strategy Biryani Special -> Found 3 Mains, 4 Sides
+DEBUG: Picked Main: Egg Biryani
+DEBUG: Picked Side: Sweet Lassi
+DEBUG: Entered _create_combo for Egg Biryani Combo with 2 items
+DEBUG: Created Combo -> Egg Biryani Combo
+DEBUG: Strategy Snack Pack -> Found 4 Mains, 4 Sides
+DEBUG: Picked Main: Gobi Manchurian
+DEBUG: Picked Side: Sweet Lassi
+DEBUG: Entered _create_combo for Gobi Manchurian Munchies with 2 items
+DEBUG: Created Combo -> Gobi Manchurian Munchies
+DEBUG: ComboAgent initialized with 31 active items
+DEBUG: Strategy North Indian Meal -> Found 7 Mains, 4 Sides
+DEBUG: Picked Main: Shahi Paneer
+DEBUG: Picked Side: Butter Roti
+DEBUG: Entered _create_combo for Shahi Paneer Delight with 2 items
+DEBUG: Created Combo -> Shahi Paneer Delight
+DEBUG: Strategy Rice Combo -> Found 5 Mains, 7 Sides
+DEBUG: Picked Main: Vegetable Pulav
+DEBUG: Picked Side: Dal Tadka
+DEBUG: Entered _create_combo for Vegetable Pulav Feast with 3 items
+DEBUG: Created Combo -> Vegetable Pulav Feast
+DEBUG: Strategy Chinese Combo -> SKIPPED (Mains: 0, Sides: 4)
+DEBUG: Strategy Biryani Special -> Found 3 Mains, 4 Sides
+DEBUG: Picked Main: Egg Biryani
+DEBUG: Picked Side: Sweet Lassi
+DEBUG: Entered _create_combo for Egg Biryani Combo with 2 items
+DEBUG: Created Combo -> Egg Biryani Combo
+DEBUG: ComboAgent initialized with 31 active items
+DEBUG: Strategy North Indian Meal -> Found 7 Mains, 4 Sides
+DEBUG: Picked Main: Shahi Paneer
+DEBUG: Picked Side: Roti
+DEBUG: Entered _create_combo for Shahi Paneer Delight with 3 items
+DEBUG: Created Combo -> Shahi Paneer Delight
+DEBUG: Strategy Rice Combo -> Found 5 Mains, 7 Sides
+DEBUG: Picked Main: Egg Biryani
+DEBUG: Picked Side: Dal Tadka
+DEBUG: Entered _create_combo for Egg Biryani Feast with 3 items
+DEBUG: Created Combo -> Egg Biryani Feast
+DEBUG: Strategy Chinese Combo -> SKIPPED (Mains: 0, Sides: 4)
+DEBUG: Strategy Biryani Special -> Found 3 Mains, 4 Sides
+DEBUG: Picked Main: Egg Biryani
+DEBUG: Picked Side: Chaas
+DEBUG: Entered _create_combo for Chicken Biryani Combo with 2 items
+DEBUG: Created Combo -> Chicken Biryani Combo
+DEBUG: ComboAgent initialized with 31 active items
+DEBUG: Strategy North Indian Meal -> Found 7 Mains, 4 Sides
+DEBUG: Picked Main: Kadai Panner
+DEBUG: Picked Side: Kulcha
+DEBUG: Entered _create_combo for Kadai Panner Delight with 3 items
+DEBUG: Created Combo -> Kadai Panner Delight
+DEBUG: Strategy Rice Combo -> Found 5 Mains, 7 Sides
+DEBUG: Picked Main: Vegetable Pulav
+DEBUG: Picked Side: Dal Fry
+DEBUG: Entered _create_combo for Vegetable Pulav Feast with 2 items
+DEBUG: Created Combo -> Vegetable Pulav Feast
+DEBUG: Strategy Chinese Combo -> SKIPPED (Mains: 0, Sides: 4)
+DEBUG: Strategy Biryani Special -> Found 3 Mains, 4 Sides
+DEBUG: Picked Main: Vegetable Biryani
+DEBUG: Picked Side: Lime Juice
+DEBUG: Entered _create_combo for Vegetable Biryani Combo with 2 items
+DEBUG: Created Combo -> Vegetable Biryani Combo
+DEBUG: ComboAgent initialized with 31 active items
+DEBUG: ComboAgent initialized with 31 active items
+DEBUG: ComboAgent initialized with 31 active items
+DEBUG: ComboAgent initialized with 31 active items
+DEBUG: ComboAgent initialized with 31 active items
+DEBUG: ComboAgent initialized with 31 active items
+DEBUG: ComboAgent initialized with 31 active items
+DEBUG: ComboAgent initialized with 31 active items
+DEBUG: ComboAgent initialized with 31 active items
+DEBUG: ComboAgent initialized with 31 active items
+DEBUG: ComboAgent initialized with 31 active items
+DEBUG: ComboAgent initialized with 31 active items
+DEBUG: ComboAgent initialized with 31 active items
+DEBUG: ComboAgent initialized with 31 active items
+DEBUG: ComboAgent initialized with 31 active items
+DEBUG: ComboAgent initialized with 31 active items
+DEBUG: ComboAgent initialized with 31 active items
+DEBUG: ComboAgent initialized with 31 active items
+DEBUG: ComboAgent initialized with 31 active items
+DEBUG: ComboAgent initialized with 31 active items
+DEBUG: ComboAgent initialized with 31 active items
+DEBUG: ComboAgent initialized with 31 active items
+DEBUG: ComboAgent initialized with 31 active items
+DEBUG: ComboAgent initialized with 31 active items
+DEBUG: ComboAgent initialized with 31 active items
+DEBUG: ComboAgent initialized with 31 active items
+DEBUG: ComboAgent initialized with 31 active items
+DEBUG: ComboAgent initialized with 31 active items
+DEBUG: ComboAgent initialized with 31 active items
+DEBUG: ComboAgent initialized with 31 active items
+DEBUG: ComboAgent initialized with 31 active items
+DEBUG: ComboAgent initialized with 31 active items
+DEBUG: ComboAgent initialized with 31 active items
+DEBUG: ComboAgent initialized with 31 active items
+DEBUG: ComboAgent initialized with 31 active items
+DEBUG: ComboAgent initialized with 31 active items
+DEBUG: ComboAgent initialized with 31 active items
+DEBUG: ComboAgent initialized with 31 active items
+DEBUG: ComboAgent initialized with 31 active items
+DEBUG: ComboAgent initialized with 31 active items
+DEBUG: ComboAgent initialized with 31 active items
+DEBUG: ComboAgent initialized with 31 active items
+DEBUG: ComboAgent initialized with 31 active items
+DEBUG: ComboAgent initialized with 31 active items
+DEBUG: ComboAgent initialized with 31 active items
+DEBUG: ComboAgent initialized with 31 active items
+DEBUG: ComboAgent initialized with 31 active items
+DEBUG: ComboAgent initialized with 31 active items
+DEBUG: ComboAgent initialized with 31 active items
+DEBUG: ComboAgent initialized with 31 active items
+DEBUG: ComboAgent initialized with 31 active items
+DEBUG: ComboAgent initialized with 31 active items
+DEBUG: ComboAgent initialized with 31 active items
+DEBUG: ComboAgent initialized with 31 active items
+DEBUG: ComboAgent initialized with 31 active items
+DEBUG: ComboAgent initialized with 31 active items
+DEBUG: ComboAgent initialized with 31 active items
+DEBUG: ComboAgent initialized with 31 active items
+DEBUG: ComboAgent initialized with 31 active items
